@@ -1,0 +1,10 @@
+[info] :: delivering :: com.example#core_2.13;0.1.0 :: 0.1.0 :: release :: Thu Mar 11 10:39:04 GMT 2021
+[debug] 	options = status=release pubdate=Thu Mar 11 10:39:04 GMT 2021 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null
+[info] 	delivering ivy file to C:\Users\USER\Downloads\akka http server\target\scala-2.13\ivy-0.1.0.xml
+[debug] 	deliver done (47ms)
+[debug] local do not support transaction. ivy pattern does not use revision as a directory
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\poms\core_2.13.pom
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\jars\core_2.13.jar
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\srcs\core_2.13-sources.jar
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\docs\core_2.13-javadoc.jar
+[info] 	published ivy to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\ivys\ivy.xml

@@ -1,0 +1,7 @@
+[debug] > Exec(docker: run core_2.13, None, None)
+[error] Expected key
+[error] Expected '*'
+[error] Expected 'Zero'
+[error] docker: run core_2.13
+[error]        ^
+[debug] > Exec(idea-shell, None, None)

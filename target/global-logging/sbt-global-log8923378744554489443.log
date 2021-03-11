@@ -1,0 +1,13 @@
+[debug] > Exec(docker:publishLocal, None, None)
+[debug] Evaluating tasks: Docker / publishLocal
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Wrote C:\Users\USER\Downloads\akka http server\target\scala-2.13\core_2.13-0.1.0.pom
+[info] :: delivering :: com.example#core_2.13;0.1.0 :: 0.1.0 :: release :: Thu Mar 11 10:13:17 GMT 2021
+[info] 	delivering ivy file to C:\Users\USER\Downloads\akka http server\target\scala-2.13\ivy-0.1.0.xml
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\poms\core_2.13.pom
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\jars\core_2.13.jar
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\srcs\core_2.13-sources.jar
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\docs\core_2.13-javadoc.jar
+[info] 	published ivy to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\ivys\ivy.xml
+[success] Total time: 1 s, completed 11-Mar-2021 10:13:18
+[debug] > Exec(idea-shell, None, None)
