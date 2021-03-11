@@ -5,7 +5,18 @@ import akka.http.scaladsl.Http
 import akka.http.scaladsl.server.Directives._
 import akka.http.scaladsl.server.Route
 
-// NOTE: extending JacksonSupport to enable JSON parsing
+// SBT
+// clean, compile, assembly
+// from command window:
+// C:\Users\USER\Downloads\akka http server\target\scala-2.13>scala core-assembly-0.1.0.jar
+
+// DOCKER (inside sbt shell)
+// SETUP: docker needs a windows (with linux extension) install on laptop,
+//  plus in Intellij: file...settings...build, execution, deployment...docker (choose docker for windows, make sure connection SUCCESSFUL)
+// Docker run commands:
+//  docker:publishLocal
+//  run core_2.13
+
 object core  {
 
   // Akka HTTP needs an actor system to run
