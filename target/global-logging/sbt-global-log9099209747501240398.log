@@ -1,0 +1,17 @@
+[debug] > Exec(docker:publishLocal, None, None)
+[debug] Evaluating tasks: Docker / publishLocal
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Wrote C:\Users\USER\Downloads\akka http server\target\scala-2.13\core_2.13-0.1.0.pom
+[info] Main Scala API documentation to C:\Users\USER\Downloads\akka http server\target\scala-2.13\api...
+[warn] 1 deprecation (since 2.11.0); re-run with -deprecation for details
+[warn] one warning found
+[info] Main Scala API documentation successful.
+[info] :: delivering :: com.example#core_2.13;0.1.0 :: 0.1.0 :: release :: Wed Mar 10 16:53:02 GMT 2021
+[info] 	delivering ivy file to C:\Users\USER\Downloads\akka http server\target\scala-2.13\ivy-0.1.0.xml
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\poms\core_2.13.pom
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\jars\core_2.13.jar
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\srcs\core_2.13-sources.jar
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\docs\core_2.13-javadoc.jar
+[info] 	published ivy to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\ivys\ivy.xml
+[success] Total time: 5 s, completed 10-Mar-2021 16:53:03
+[debug] > Exec(idea-shell, None, None)
