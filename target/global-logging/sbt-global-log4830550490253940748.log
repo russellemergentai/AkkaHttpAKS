@@ -1,0 +1,8 @@
+[debug] > Exec(docker, None, None)
+[error] Not a valid command: docker
+[error] Not a valid project ID: docker
+[error] Expected ':'
+[error] Not a valid key: docker (similar: doc)
+[error] docker
+[error]       ^
+[debug] > Exec(idea-shell, None, None)

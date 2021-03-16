@@ -1,0 +1,8 @@
+[debug] > Exec(cls, None, None)
+[error] Not a valid command: cls (similar: last, alias, set)
+[error] Not a valid project ID: cls
+[error] Expected ':'
+[error] Not a valid key: cls (similar: clean, ps, compilers)
+[error] cls
+[error]    ^
+[debug] > Exec(idea-shell, None, None)

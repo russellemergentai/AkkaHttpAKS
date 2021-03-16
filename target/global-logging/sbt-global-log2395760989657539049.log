@@ -1,0 +1,5 @@
+[debug] > Exec(docker:images, None, None)
+[error] Not a valid key: images (similar: tags, mappings, stage)
+[error] docker:images
+[error]              ^
+[debug] > Exec(idea-shell, None, None)

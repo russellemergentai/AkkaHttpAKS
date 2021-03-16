@@ -1,0 +1,43 @@
+[debug] > Exec(publishLocal, None, None)
+[debug] Evaluating tasks: publishLocal
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Wrote C:\Users\USER\Downloads\akka http server\target\scala-2.13\core_2.13-0.1.0.pom
+[info] :: delivering :: com.example#core_2.13;0.1.0 :: 0.1.0 :: release :: Mon Mar 15 12:15:34 GMT 2021
+[info] 	delivering ivy file to C:\Users\USER\Downloads\akka http server\target\scala-2.13\ivy-0.1.0.xml
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\poms\core_2.13.pom (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\poms\core_2.13.pom.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\poms\core_2.13.pom.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\poms\core_2.13.pom
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\jars\core_2.13.jar (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\jars\core_2.13.jar.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\jars\core_2.13.jar.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\jars\core_2.13.jar
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\srcs\core_2.13-sources.jar (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\srcs\core_2.13-sources.jar.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\srcs\core_2.13-sources.jar.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\srcs\core_2.13-sources.jar
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\docs\core_2.13-javadoc.jar (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\docs\core_2.13-javadoc.jar.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\docs\core_2.13-javadoc.jar.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published core_2.13 to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\docs\core_2.13-javadoc.jar
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\ivys\ivy.xml (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\ivys\ivy.xml.sha1 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[warn] Attempting to overwrite C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\ivys\ivy.xml.md5 (non-SNAPSHOT)
+[warn] 	You need to remove it from the cache manually to take effect.
+[info] 	published ivy to C:\Users\USER\.ivy2\local\com.example\core_2.13\0.1.0\ivys\ivy.xml
+[success] Total time: 1 s, completed 15-Mar-2021 12:15:34
+[debug] > Exec(idea-shell, None, None)

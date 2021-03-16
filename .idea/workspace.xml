@@ -65,7 +65,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
-  <component name="RunManager" selected="Application.core">
+  <component name="RunManager" selected="Docker.Docker Image">
     <configuration name="core" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="core" />
       <module name="core" />
@@ -80,8 +80,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="docker/core_2.13" />
+          <option name="command" value="" />
+          <option name="containerName" value="core_2.13" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.Docker Image" />
         <item itemvalue="Application.core" />
         <item itemvalue="Application.prog" />
       </list>

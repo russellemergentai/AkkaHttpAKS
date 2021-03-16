@@ -1,0 +1,7 @@
+[debug] > Exec(docker: images, None, None)
+[error] Expected key
+[error] Expected '*'
+[error] Expected 'Zero'
+[error] docker: images
+[error]        ^
+[debug] > Exec(idea-shell, None, None)

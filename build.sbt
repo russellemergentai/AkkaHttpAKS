@@ -24,9 +24,9 @@ lazy val root = (project in file(".")).
     )
   )
 
-
 mainClass in Compile := Some("myprog.core")
 
-//enablePlugins(JavaAppPackaging)
-//enablePlugins(DockerPlugin)
+enablePlugins(JavaAppPackaging)
+enablePlugins(DockerPlugin)
+
 

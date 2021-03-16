@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\USER\Downloads\akka http server\target\scala-2.13\core_2.13-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprog[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\USER\Downloads\akka http server\target\scala-2.13\classes\myprog[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprog\core$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\USER\Downloads\akka http server\target\scala-2.13\classes\myprog\core$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprog\core$AppRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\USER\Downloads\akka http server\target\scala-2.13\classes\myprog\core$AppRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprog\core$AppRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\USER\Downloads\akka http server\target\scala-2.13\classes\myprog\core$AppRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprog\core$AppResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\USER\Downloads\akka http server\target\scala-2.13\classes\myprog\core$AppResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprog\core$AppResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\USER\Downloads\akka http server\target\scala-2.13\classes\myprog\core$AppResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprog\core.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\USER\Downloads\akka http server\target\scala-2.13\classes\myprog\core.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,8 @@
+[debug] > Exec(images, None, None)
+[error] Not a valid command: images (similar: alias, iflast)
+[error] Not a valid project ID: images
+[error] Expected ':'
+[error] Not a valid key: images (similar: tags, mappings, stage)
+[error] images
+[error]       ^
+[debug] > Exec(idea-shell, None, None)
